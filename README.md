@@ -1,2 +1,5 @@
 # psysim
-Fun Tailwind CSS Project
+Fun Tailwind CSS Landing Page Project
+Tech used:
+- Tailwind CSS
+- DaisyUI
